@@ -1,5 +1,19 @@
+import { ShowCard } from "../modules/showCard.js";
+let contenedor = document.getElementById('container-cards');
 const URL = 'http://localhost:3000/experiencias';
 let form = document.getElementById('formulario');
+
+
+
+document.addEventListener('DOMContentLoaded', async() => {
+
+    let res = await fetch(URL);
+    let data = await res.json();
+
+    ShowCard(contenedor, data);
+
+
+})
 
 
 form.addEventListener('submit', async(e) => {

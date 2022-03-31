@@ -7,6 +7,14 @@
       "room": "2",
       "experience": "La mejor del mundo :)",
       "id": 1
+    },
+    {
+      "name": "Luis",
+      "age": "16",
+      "image": "https://avatars.githubusercontent.com/u/70932146?v=4",
+      "room": "3",
+      "experience": "Se durmió todo el viaje",
+      "id": 2
     }
   ]
 }
