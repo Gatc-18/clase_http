@@ -1,20 +1,20 @@
 {
   "experiencias": [
     {
-      "name": "Gustavo",
+      "name": "Gutavo",
       "age": "20",
-      "image": "https://cdn.royaleapi.com/static/img/cards-150/mega-knight.png?t=7b7fcc45c",
-      "room": "2",
-      "experience": "La mejor del mundo :)",
-      "id": 1
+      "image": "https://avatars.githubusercontent.com/u/66337926?v=4",
+      "room": "Sala",
+      "experience": "nada del otro mundo, he visitado parques mejores",
+      "id": 3
     },
     {
-      "name": "Luis",
-      "age": "16",
-      "image": "https://avatars.githubusercontent.com/u/70932146?v=4",
-      "room": "3",
-      "experience": "Se durmió todo el viaje",
-      "id": 2
+      "name": "David",
+      "age": "30",
+      "image": "https://avatars.githubusercontent.com/u/90360114?v=4",
+      "room": "1",
+      "experience": "Bien, muy entretenida e interactiva",
+      "id": 4
     }
   ]
 }
